@@ -1,0 +1,23 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "EthiipicDateConverter",
+  "main": "index.js",
+  "dependencies": {
+    "ethiopic-date": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muuzm/test_mouz.git"
+  },
+  "author": "NaodYMouzA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muuzm/test_mouz/issues"
+  },
+  "homepage": "https://github.com/muuzm/test_mouz#readme"
+}
